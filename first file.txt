@@ -1,1 +1,2 @@
 This is my first file on VSCODE
+And this is the second line
